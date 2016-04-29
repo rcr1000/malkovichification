@@ -12,4 +12,4 @@ There is pretty much no reason ever to use this script. The closest you could li
 ## Instructions
 After you've made sure to include jQuery on your site, place the malkovichification folder somewhere in your project. Then you can Malkovichify any page on the site by placing the following in the page's HTML:
 
-`<script src="/PATH/TO/malkovichification/malkovichification.js></script>`
+`<script src="/PATH/TO/malkovichification/malkovichification.js"></script>`
