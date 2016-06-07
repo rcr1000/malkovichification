@@ -10,6 +10,9 @@ There is pretty much no reason ever to use this script. The closest you could li
 [jQuery](https://jquery.com)
 
 ## Instructions
-After you've made sure to include jQuery on your site, place the malkovichification folder somewhere in your project. Then you can Malkovichify any page on the site by placing the following in the page's HTML:
+After you've made sure to include jQuery on your site, place the malkovichification folder somewhere in your project. Then you can Malkovichify any page on the site by placing the following in the page's HTML (replacing "/PATH/TO/" with the path to the malkovichification directory):
 
 `<script src="/PATH/TO/malkovichification/malkovichification.js"></script>`
+
+## Miscellaneous
+The Drupal module port of this project can be found at [drupal.org/project/malkovichification](https://drupal.org/project/malkovichification).
